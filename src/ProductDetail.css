@@ -1,0 +1,19 @@
+.title {
+  font-size: larger;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.price {
+  font-size: larger;
+  font-weight: 600;
+  margin-left: 10px;
+}
+
+.category {
+  margin-left: 10px;
+}
+
+.rating {
+  margin-left: 10px;
+}
